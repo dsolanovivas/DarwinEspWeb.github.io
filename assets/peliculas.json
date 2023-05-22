@@ -1,0 +1,83 @@
+{ "data" : [
+    {
+       "id":1,
+       "titulo":"Avatar",
+       "genero":"Ciencia ficción",
+       "autor":"James Cameron",
+       "copias":10,
+       "novedad":true
+    },
+    {
+       "id":2,
+       "titulo":"Avengers:Endgame",
+       "genero":"Superhéroes",
+       "autor":"Anthony y Joe Russo",
+       "copias":5,
+       "novedad":false
+    },
+    {
+       "id":3,
+       "titulo":"Avatar: The Way of Water",
+       "genero":"Ciencia ficción",
+       "autor":"James Cameron",
+       "copias":8,
+       "novedad":false
+    },
+    {
+       "id":4,
+       "titulo":"Titanic",
+       "genero":"Drama",
+       "autor":"James Cameron",
+       "copias":25,
+       "novedad":true
+    },
+    {
+       "id":5,
+       "titulo":"Star Wars: Episodio VII - El despertar de la Fuerza",
+       "genero":"Ciencia ficción",
+       "autor":"J. J. Abrams",
+       "copias":20,
+       "novedad":true
+    },
+    {
+       "id":6,
+       "titulo":"Avengers: Infinity War",
+       "genero":"Superhéroes",
+       "autor":"Anthony y Joe Russo",
+       "copias":18,
+       "novedad":false
+    },
+    {
+       "id":7,
+       "titulo":"Spider-Man: No Way Home",
+       "genero":"Superhéroes",
+       "autor":"Jon Watts",
+       "copias":16,
+       "novedad":false
+    },
+    {
+       "id":8,
+       "titulo":"Jurassic World",
+       "genero":"Ciencia ficción",
+       "autor":"Colin Trevorrow",
+       "copias":23,
+       "novedad":true
+    },
+    {
+       "id":9,
+       "titulo":"El rey león",
+       "genero":"Animada infantil",
+       "autor":"Jon Favreau",
+       "copias":14,
+       "novedad":true
+    },
+    {
+       "id":10,
+       "titulo":"The Avengers",
+       "genero":"Superhéroes",
+       "autor":"Joss Whedon",
+       "copias":28,
+       "novedad":false
+    }
+ ]
+}
